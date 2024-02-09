@@ -10,7 +10,7 @@ export function Projects() {
             <h3>Pagar-me</h3>
             <p>Plataforma para gerenciamento de pagamentos</p>
             <div className="btn-project">
-              <a href="">
+              <a href="https://luminous-empanada-e44d0f.netlify.app/">
                 <p>Ver projeto</p>
               </a>
             </div>
@@ -21,7 +21,7 @@ export function Projects() {
           <h3>Dindin</h3>
           <p>Gerenciador de finanças</p>
           <div className="btn-project">
-            <a href="">
+            <a href="https://sparkling-genie-d8b7c6.netlify.app/">
               <p>Ver projeto</p>
             </a>
           </div>
@@ -31,7 +31,7 @@ export function Projects() {
           <h3>Spider-man | Multiverso</h3>
           <p>Nostalgia filmes Spider-man</p>
           <div className="btn-project">
-            <a href="">
+            <a href="https://subtle-cajeta-d0ef00.netlify.app/">
               <p>Ver projeto</p>
             </a>
           </div>
